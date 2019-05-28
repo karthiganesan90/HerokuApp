@@ -1,0 +1,41 @@
+{
+  "name": "HerokuApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "ios": "react-native run-ios",
+    "android": "react-native run-android",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/react-redux": "^7.0.9",
+    "react": "16.8.3",
+    "react-native": "0.59.8",
+    "react-redux": "^7.0.3",
+    "redux-bees": "^0.1.10",
+    "redux-saga": "^1.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/runtime": "^7.4.5",
+    "@types/jest": "^24.0.13",
+    "@types/lodash": "4.14.82",
+    "@types/react": "^16.8.18",
+    "@types/react-native": "^0.57.59",
+    "@types/react-test-renderer": "^16.8.1",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
+    "lodash": "^4.17.4",
+    "metro-react-native-babel-preset": "^0.54.1",
+    "react-addons-test-utils": "^15.6.2",
+    "react-native-typescript-transformer": "^1.2.12",
+    "react-test-renderer": "16.8.3",
+    "redux-devtools": "^3.5.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.4.5"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

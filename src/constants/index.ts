@@ -1,0 +1,1 @@
+export const API_DOMAIN = 'https://frontend-code-test.herokuapp.com';
