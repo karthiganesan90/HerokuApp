@@ -26,7 +26,7 @@
     "@types/react-test-renderer": "^16.8.1",
     "babel-jest": "^24.8.0",
     "jest": "^24.8.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "metro-react-native-babel-preset": "^0.54.1",
     "react-addons-test-utils": "^15.6.2",
     "react-native-typescript-transformer": "^1.2.12",
