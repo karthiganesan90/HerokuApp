@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/react-redux": "^7.0.9",
     "react": "16.8.3",
-    "react-native": "0.59.8",
+    "react-native": "0.62.3",
     "react-redux": "^7.0.3",
     "redux-bees": "^0.1.10",
     "redux-saga": "^1.0.2"
